@@ -7,6 +7,7 @@ Welcome to the Human Immune System documentation! This guide will take you from 
 1. [What is the Immune System?](./01-what-is-immune-system.md)
 2. [How the Immune System Performs Defense](./02-defense-mechanisms.md)
 3. [Immune Cells and Their Functions](./03-immune-cells.md)
+4. [Glossary](./GLOSSARY.md) - Complete terminology reference
 
 ## 🎯 Learning Path
 
@@ -41,6 +42,11 @@ You're doing research or clinical immunology:
 ## 🗺️ Quick Navigation
 
 **Want to understand...** → **Read this**
+
+### Quick Reference
+- **Glossary**: [Complete terminology reference](./GLOSSARY.md) - All terms from beginner to expert level
+- **Confused by a term?**: Search the [Glossary](./GLOSSARY.md) (Ctrl+F/Cmd+F)
+- **Pronunciation help**: Check [How to Pronounce](./GLOSSARY.md#how-to-pronounce-difficult-terms)
 
 ### Basic Concepts
 - What the immune system is? → [What is the Immune System?](./01-what-is-immune-system.md)

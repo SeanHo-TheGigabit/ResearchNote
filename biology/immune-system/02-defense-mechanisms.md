@@ -1448,6 +1448,10 @@ Ready to explore more? Continue to:
 
 ---
 
+## 📖 Glossary
+
+**Confused by terminology?** Check the [**Glossary**](./GLOSSARY.md) for clear definitions of all technical terms (phagocytosis, cytokines, complement, etc.) organized by learning level.
+
 ## Further Reading by Level
 
 **📚 Beginner:**

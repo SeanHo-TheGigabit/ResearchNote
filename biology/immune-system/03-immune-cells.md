@@ -1488,6 +1488,10 @@ Ready to explore more? Continue to:
 
 ---
 
+## 📖 Glossary
+
+**Need quick definitions?** Check the [**Glossary**](./GLOSSARY.md) for explanations of all cell types, receptors, and signaling molecules mentioned in this document.
+
 ## Conclusion
 
 Immune cells represent one of the most diverse and sophisticated cellular systems in biology. From rapidly responding neutrophils to long-lived memory cells, each cell type has evolved specialized functions to protect us from pathogens while maintaining tolerance to self.

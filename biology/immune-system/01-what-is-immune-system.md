@@ -707,6 +707,10 @@ Ready to dive deeper? Continue to:
 
 ---
 
+## 📖 Glossary
+
+**New to immunology terminology?** Check the [**Glossary**](./GLOSSARY.md) for definitions of all technical terms used in this document, organized by complexity level.
+
 ## Further Reading
 
 - **Janeway's Immunobiology** (Murphy & Weaver) - comprehensive textbook
