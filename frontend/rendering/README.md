@@ -13,13 +13,33 @@
 - **性能优化**：减少Reflow和Repaint的实战技巧
 - **检测工具**：使用Chrome DevTools分析渲染性能
 
+### [React与Node.js在浏览器渲染优化中的作用](./react-nodejs-rendering-optimization.md) ⭐
+
+深入研究React和Node.js如何解决浏览器渲染性能问题，包括：
+
+- **Virtual DOM原理**：React如何通过虚拟DOM减少Reflow
+- **批量更新机制**：React 18的自动批量更新特性
+- **服务端渲染（SSR）**：Node.js如何加速首屏渲染
+- **真实案例分析**：Facebook、Netflix、Airbnb等大型网站的优化策略
+- **Next.js实战**：SSG、SSR、ISR三种渲染模式详解
+- **性能对比**：包含详细的代码示例和性能数据
+
 ## 🎯 学习路径
 
+### 基础篇
 1. 先理解基础的5步渲染流程
 2. 深入学习8步详细流程
 3. 掌握Reflow和Repaint的区别
-4. 学习性能优化策略
-5. 使用DevTools实践检测
+
+### 进阶篇
+4. 理解React Virtual DOM如何减少Reflow
+5. 学习React批量更新和Diff算法
+6. 了解Node.js SSR的原理和优势
+
+### 实战篇
+7. 研究真实网站的优化案例（Netflix、Airbnb等）
+8. 掌握Next.js的三种渲染模式
+9. 使用DevTools实践检测和优化
 
 ## 🔑 核心概念
 
@@ -31,12 +51,33 @@
 
 ## 📖 相关主题
 
+### 浏览器渲染
 - Critical Rendering Path（关键渲染路径）
 - Layout/Reflow（布局/重排）
 - Paint/Repaint（绘制/重绘）
 - Composite（合成）
 - GPU Acceleration（GPU加速）
-- Performance Optimization（性能优化）
+
+### React生态
+- Virtual DOM（虚拟DOM）
+- Reconciliation Algorithm（协调算法）
+- Automatic Batching（自动批量更新）
+- Concurrent Features（并发特性）
+- React Server Components（React服务器组件）
+
+### Node.js SSR
+- Server-Side Rendering（服务端渲染）
+- Static Site Generation（静态站点生成）
+- Incremental Static Regeneration（增量静态再生）
+- Streaming SSR（流式服务端渲染）
+- Edge Rendering（边缘渲染）
+
+### 性能优化
+- Code Splitting（代码分割）
+- Lazy Loading（懒加载）
+- Virtual Scrolling（虚拟滚动）
+- Image Optimization（图片优化）
+- Caching Strategies（缓存策略）
 
 ---
 
