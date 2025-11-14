@@ -8,7 +8,7 @@ Welcome to the Linux Kernel Networking documentation! This guide will take you f
 2. [The Network Stack Architecture](./02-network-stack-architecture.md)
 3. [Packet Flow Through the Kernel](./03-packet-flow.md)
 4. [Key Functions and Structures](./04-key-functions.md)
-5. [Network Device Drivers](./05-network-drivers.md)
+5. [Linux Network Engineering and Debugging](./05-network-engineering-debugging.md)
 6. **[GLOSSARY - Essential Terms & Definitions](./GLOSSARY.md)** ⭐
 
 ## 🎯 Learning Path
@@ -42,8 +42,9 @@ You're contributing to kernel code or doing research:
 **Want to understand...** → **Read this**
 - How packets travel from wire to application? → [Packet Flow](./03-packet-flow.md)
 - What `sk_buff` is? → [Key Structures](./04-key-functions.md#sk_buff) or [Glossary](./GLOSSARY.md#sk_buff-socket-buffer)
-- How network drivers work? → [Network Drivers](./05-network-drivers.md)
-- What NAPI means? → [Network Drivers](./05-network-drivers.md#napi) or [Glossary](./GLOSSARY.md#napi-new-api)
+- How to debug network issues? → [Network Engineering and Debugging](./05-network-engineering-debugging.md)
+- What tools to use for network tracing? → [Network Engineering and Debugging](./05-network-engineering-debugging.md#essential-debugging-tools)
+- What NAPI means? → [Glossary](./GLOSSARY.md#napi-new-api)
 - Look up any networking term? → [GLOSSARY](./GLOSSARY.md)
 
 ## 🎓 Prerequisites by Level
