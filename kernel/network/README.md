@@ -9,7 +9,8 @@ Welcome to the Linux Kernel Networking documentation! This guide will take you f
 3. [Packet Flow Through the Kernel](./03-packet-flow.md)
 4. [Key Functions and Structures](./04-key-functions.md)
 5. [Linux Network Engineering and Debugging](./05-network-engineering-debugging.md)
-6. **[GLOSSARY - Essential Terms & Definitions](./GLOSSARY.md)** ⭐
+6. [Hands-On Tracing and Debugging Exercises](./06-hands-on-tracing-exercises.md) 🔧
+7. **[GLOSSARY - Essential Terms & Definitions](./GLOSSARY.md)** ⭐
 
 ## 🎯 Learning Path
 
@@ -44,6 +45,8 @@ You're contributing to kernel code or doing research:
 - What `sk_buff` is? → [Key Structures](./04-key-functions.md#sk_buff) or [Glossary](./GLOSSARY.md#sk_buff-socket-buffer)
 - How to debug network issues? → [Network Engineering and Debugging](./05-network-engineering-debugging.md)
 - What tools to use for network tracing? → [Network Engineering and Debugging](./05-network-engineering-debugging.md#essential-debugging-tools)
+- Practice with tcpdump, strace, ftrace, perf, eBPF? → [Hands-On Exercises](./06-hands-on-tracing-exercises.md)
+- Real-world debugging scenarios? → [Hands-On Exercises](./06-hands-on-tracing-exercises.md#real-world-production-scenarios)
 - What NAPI means? → [Glossary](./GLOSSARY.md#napi-new-api)
 - Look up any networking term? → [GLOSSARY](./GLOSSARY.md)
 
