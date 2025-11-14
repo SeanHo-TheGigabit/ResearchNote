@@ -64,6 +64,88 @@ Overview (10,000 ft view)
 - Show data flow visually
 - Include code snippets with clear annotations
 
+### 6. **Scenario-Based Learning**
+Abstract concepts become concrete through real-world scenarios:
+- **What**: Show the concept in isolation
+- **Why**: Explain the motivation and problem it solves
+- **When**: Demonstrate specific use cases and scenarios
+- **How**: Provide implementation details and best practices
+
+Every technical term should include:
+- Multiple scenarios showing different contexts
+- Common problems and debugging situations
+- Performance implications in practice
+- Security considerations where applicable
+
+### 7. **Comprehensive Glossary**
+Maintain a living glossary that:
+- Defines terms at all expertise levels
+- Provides concrete scenarios for each term
+- Cross-references related concepts
+- Shows terms in different contexts (web browsing, gaming, debugging, security, etc.)
+- Updates as new terms are introduced in the documentation
+
+**Location**: Each major topic area should have its own glossary (e.g., `kernel/network/GLOSSARY.md`)
+
+**Format**: Each term should follow the multi-level explanation pattern:
+- 🌟 Simple (ages 6-12): Analogy-based
+- 📚 Student (ages 13-18): Conceptual
+- 🎓 Technical (university): Formal definition
+- 🔬 Advanced (master's/PhD): Deep technical details
+- 🎬 Scenario: Real-world use cases and examples
+
+## Scenario Categories
+
+When providing scenarios, consider these common contexts:
+
+### 1. **Application Scenarios**
+How end-users encounter this concept:
+- Web browsing
+- Video streaming
+- Gaming / real-time applications
+- File transfer / downloads
+- Video conferencing / VoIP
+- Mobile applications
+
+### 2. **Development Scenarios**
+How developers interact with this concept:
+- Writing network applications
+- API usage and socket programming
+- Performance optimization
+- Testing and debugging
+- Error handling
+
+### 3. **Operations Scenarios**
+How system administrators encounter this:
+- Network configuration
+- Performance tuning
+- Capacity planning
+- Monitoring and alerting
+- Troubleshooting connectivity issues
+
+### 4. **Security Scenarios**
+Security implications and use cases:
+- Attack vectors (DDoS, spoofing, etc.)
+- Defense mechanisms
+- Firewall configuration
+- Intrusion detection
+- Access control
+
+### 5. **Debugging Scenarios**
+Common problems and how to diagnose:
+- Tools to use (tcpdump, wireshark, ss, netstat)
+- What to look for
+- Common misconfigurations
+- Performance bottlenecks
+
+### 6. **Infrastructure Scenarios**
+Deployment and architecture contexts:
+- Datacenter networks
+- Cloud environments (AWS, GCP, Azure)
+- Container orchestration (Kubernetes, Docker)
+- Virtualization (VMs, hypervisors)
+- Edge computing / CDN
+
 ## Documentation Structure Template
 
 Each major topic should follow this structure:
@@ -90,7 +172,7 @@ Each major topic should follow this structure:
 [Cheat sheet for experienced users]
 ```
 
-## For Future Clause (AI Assistants)
+## For Future Claude (AI Assistants)
 
 When contributing to this repository:
 
@@ -102,6 +184,10 @@ When contributing to this repository:
 6. **Test your analogies** - Would a child understand? Would an expert nod?
 7. **Include visual aids** - Diagrams, flowcharts, ASCII art
 8. **Show, don't just tell** - Examples, examples, examples
+9. **Always include scenarios** - For every concept, provide 3-5 real-world use cases
+10. **Update the glossary** - Add new terms to the glossary with multi-level definitions
+11. **Cross-reference scenarios** - Link between main documentation and glossary scenarios
+12. **Think in contexts** - Consider how the concept appears in: debugging, performance tuning, security, development, operations
 
 ## The Golden Rule
 
