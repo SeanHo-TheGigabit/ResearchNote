@@ -1460,6 +1460,34 @@ Kill tumor cells
 
 ---
 
+## 📚 Summary & Key Takeaways
+
+| Level | Key Understanding |
+|-------|------------------|
+| 🌟 Beginner | Your immune cells are like different superheroes: first responders (neutrophils), big eaters (macrophages), assassins (NK cells), generals (helper T cells), soldiers (killer T cells), weapon makers (B cells), and memory keepers |
+| 📚 Student | Two lineages: myeloid (neutrophils, macrophages, DCs - innate) and lymphoid (T cells, B cells, NK cells - adaptive and innate-like) |
+| 🎓 Practitioner | Hematopoiesis from HSCs, cell development in primary lymphoid organs, selection processes, antigen presentation via MHC, coordinated cellular responses |
+| 🔬 Advanced | TCR/BCR signaling cascades, immunological synapse, macrophage polarization, germinal center reactions, NK cell education, tissue-resident cells |
+| 🧬 Expert | Single-cell transcriptomics, metabolic reprogramming, tissue-resident immunity, unconventional T cells, immune cell plasticity, spatial immunology |
+
+## 🔗 Next Steps
+
+Ready to explore more? Continue to:
+- [How the Immune System Performs Defense](./02-defense-mechanisms.md) - See how these cells work together
+- [What is the Immune System?](./01-what-is-immune-system.md) - Review the big picture
+- [Main README](./README.md) - Navigate all immune system topics
+
+---
+
+**Questions to Test Your Understanding:**
+- 🌟 Can you name three types of immune cells and what they do?
+- 📚 What's the difference between myeloid and lymphoid lineages?
+- 🎓 How do T cells and B cells develop and what selection processes do they undergo?
+- 🔬 How does the immunological synapse form and what is its function?
+- 🧬 How does metabolic reprogramming regulate T cell differentiation into effector vs. memory cells?
+
+---
+
 ## Conclusion
 
 Immune cells represent one of the most diverse and sophisticated cellular systems in biology. From rapidly responding neutrophils to long-lived memory cells, each cell type has evolved specialized functions to protect us from pathogens while maintaining tolerance to self.

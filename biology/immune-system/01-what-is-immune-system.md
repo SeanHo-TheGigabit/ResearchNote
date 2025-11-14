@@ -679,6 +679,34 @@ T cell anergy/suppression
 
 ---
 
+## 📚 Summary & Key Takeaways
+
+| Level | Key Understanding |
+|-------|------------------|
+| 🌟 Beginner | The immune system is like a castle defense team with walls, guards, and soldiers that protect you from germs |
+| 📚 Student | Two-part defense: innate (fast, non-specific) and adaptive (slow, specific, with memory) |
+| 🎓 Practitioner | Coordinated innate and adaptive responses using cells, organs, and molecular recognition |
+| 🔬 Advanced | Molecular mechanisms: PRRs, TCR/BCR signaling, complement cascades, cytokine networks |
+| 🧬 Expert | V(D)J recombination, thymic selection, somatic hypermutation, trained immunity, tissue-resident cells |
+
+## 🔗 Next Steps
+
+Ready to dive deeper? Continue to:
+- [How the Immune System Performs Defense](./02-defense-mechanisms.md) - Learn the specific mechanisms
+- [Immune Cells and Their Functions](./03-immune-cells.md) - Meet each cell type in detail
+- [Main README](./README.md) - Navigate all immune system topics
+
+---
+
+**Questions to Test Your Understanding:**
+- 🌟 Can you explain to a friend why you don't get sick from the same cold twice?
+- 📚 What's the difference between innate and adaptive immunity?
+- 🎓 What are the primary and secondary lymphoid organs and their roles?
+- 🔬 How does MHC restriction work in T cell recognition?
+- 🧬 What is the mechanism of V(D)J recombination and how does it generate diversity?
+
+---
+
 ## Further Reading
 
 - **Janeway's Immunobiology** (Murphy & Weaver) - comprehensive textbook

@@ -1420,6 +1420,34 @@ The future of immunology lies in:
 
 ---
 
+## 📚 Summary & Key Takeaways
+
+| Level | Key Understanding |
+|-------|------------------|
+| 🌟 Beginner | Defense has 5 strategies: walls (barriers), alarms (recognition), eating (phagocytosis), tagging (antibodies), and remembering (memory) |
+| 📚 Student | Multi-layered defense: physical barriers → innate responses (inflammation, phagocytosis, NK cells) → adaptive responses (T cells, antibodies, memory) |
+| 🎓 Practitioner | Coordinated mechanisms: barrier immunity, pattern recognition, complement activation, cell-mediated and humoral adaptive responses |
+| 🔬 Advanced | Molecular mechanisms: TLR signaling, complement cascades, TCR/BCR activation, germinal center reactions, effector functions |
+| 🧬 Expert | Cutting-edge: NETs, trained immunity, autophagy, tissue-resident memory, metabolic reprogramming, unconventional T cells |
+
+## 🔗 Next Steps
+
+Ready to explore more? Continue to:
+- [Immune Cells and Their Functions](./03-immune-cells.md) - Deep dive into each cell type
+- [What is the Immune System?](./01-what-is-immune-system.md) - Review the foundational concepts
+- [Main README](./README.md) - Navigate all immune system topics
+
+---
+
+**Questions to Test Your Understanding:**
+- 🌟 Can you explain the five defense strategies your body uses?
+- 📚 How do innate and adaptive immunity work together during an infection?
+- 🎓 What is the difference between cell-mediated and humoral immunity?
+- 🔬 How does the germinal center reaction improve antibody responses?
+- 🧬 What is trained immunity and how does it challenge traditional immunology?
+
+---
+
 ## Further Reading by Level
 
 **📚 Beginner:**
